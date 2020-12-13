@@ -1,0 +1,63 @@
+year,category,variable,units,magnitude,source,data_value,flag
+2007,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,43.1,R
+2007,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,26.3,F
+2007,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,42.7,R
+2007,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2007,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,715722,F
+2007,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,582377,F
+2007,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,14004,F
+2008,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,39.9,R
+2008,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,14.2,F
+2008,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,40.3,R
+2008,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.3,F
+2008,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,564630,F
+2008,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,583605,F
+2008,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,12774,F
+2009,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,35.6,R
+2009,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,17,F
+2009,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,38.3,R
+2009,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2009,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,688801,F
+2009,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,567367,F
+2009,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,10704,F
+2010,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,38.2,R
+2010,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,17.9,F
+2010,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,38,R
+2010,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2010,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,762230,F
+2010,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,560151,F
+2010,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,10803,F
+2011,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,37.4,R
+2011,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,19.6,F
+2011,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,38.6,R
+2011,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2011,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,851076,F
+2011,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,584158,F
+2011,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,10491,F
+2012,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,42.8,R
+2012,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,20.1,F
+2012,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,41.6,R
+2012,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2012,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,839196,F
+2012,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,666482,F
+2012,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,12882,F
+2013,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,42.9,R
+2013,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,21.2,F
+2013,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,41.3,R
+2013,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2013,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,854834,F
+2013,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,656926,F
+2013,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,12528,F
+2014,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,43.3,R
+2014,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,22.1,F
+2014,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,43.7,R
+2014,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2014,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,836934,F
+2014,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,653817,F
+2014,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,13131,F
+2015,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,42.8,R
+2015,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,23.9,F
+2015,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,39.8,R
+2015,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2015,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,932002,F
+2015,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,693498,F
